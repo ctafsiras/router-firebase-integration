@@ -1,0 +1,8 @@
+.nav-header nav a{
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+}
+.nav-header nav a:hover{
+    color: tomato;
+}
